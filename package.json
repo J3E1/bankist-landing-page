@@ -1,0 +1,19 @@
+{
+  "name": "l13",
+  "version": "1.0.0",
+  "description": "\"landing page for bankist\"",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sad-Machin3/bankist-landing-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sad-Machin3/bankist-landing-page/issues"
+  },
+  "homepage": "https://Sad-Machin3.github.io/bankist-landing-page"
+}
